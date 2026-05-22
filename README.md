@@ -1,7 +1,7 @@
 <html>
   
 <body>
-<img align="right" alt="suy-gif" src="https://tenor.com/pzrIDisUWNg.gif"/>  
+<img align="right" alt="suy-gif" src="https://tenor.com/embed.js"/>  
 </body>
 
 </html>
