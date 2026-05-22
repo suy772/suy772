@@ -1,7 +1,7 @@
-<body>
-
-<img align="right" alt="suy-gif" src="https://tenor.com/pzrIDisUWNg.gif">
-
+<html>
   
+<body>
+<img align="right" alt="suy-gif" src="https://tenor.com/pzrIDisUWNg.gif">  
 </body>
 
+</html>
